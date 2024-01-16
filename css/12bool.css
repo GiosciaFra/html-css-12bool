@@ -11,7 +11,7 @@
 }
 
 .container {
-    max-width: 1170px;
+    /* max-width: 1170px; */
     margin: 0 auto;
 }
 
@@ -191,4 +191,14 @@
     align-items: flex-end;
 }
 
+/*classi justify-content (around e between)*/
 
+.justify-around{
+    display: flex;
+    justify-content: space-around;
+}
+
+.justify-between{
+    display: flex;
+    justify-content: space-between;
+}

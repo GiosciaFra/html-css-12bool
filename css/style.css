@@ -13,3 +13,8 @@
     background-color:rgba(0, 225, 101, 1);
     border: 1px rgba(0, 225, 101, 1) solid;
 }
+
+
+h1 {
+    padding: 10px;
+}

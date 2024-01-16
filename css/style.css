@@ -1,0 +1,9 @@
+.container {
+    margin-top: 35px;
+}
+
+[class*="col-"]{
+    background-color:rgba(0, 108, 250, 1) ;
+    border: 1px white solid;
+    color:white;
+}
